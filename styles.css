@@ -115,6 +115,32 @@ main >section{
     }
     
 }
+#feature-section-title{
+    border-left: 5px solid tomato;
+    padding-left: 20px;
+}
+.features{
+    gap: 140px;
+}
+#experience-badge{
+    padding: 45px 42px;
+
+}
+#experience-year{
+    
+}
+.feature-card,.feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+   margin-top:0 ;
+   margin-bottom:0;
+}
+.feature-card{
+     padding: 30px;
+     border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgba(0,0,0,0.06);
+    margin-bottom: 20px;
+}
 .fact{
     border: 1px solid #FF900E;
     width: 240px;
