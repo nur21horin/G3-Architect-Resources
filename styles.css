@@ -136,6 +136,9 @@ main >section{
     font-weight: 600;
     margin-top:10px ;
 }
+.fact-description{
+    max-width: 540px;
+}
 .facts-container{
     display: grid;
     grid-template-columns: repeat(4,1fr);
